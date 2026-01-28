@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">正确</string>
+    <string name="channel_id">通知ID</string>
+    <string name="notice_title">正确</string>
+</resources>
